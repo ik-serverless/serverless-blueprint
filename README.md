@@ -9,7 +9,13 @@
 ## Commands
 
 <!-- START makefile-doc -->
-
+```
+$ make help 
+hooks                          Commit hooks setup
+validate                       Validate with pre-commit hooks
+changelog                      Update changelog
+release                        Create release version 
+```
 <!-- END makefile-doc -->
 
 ## How to Contribute
